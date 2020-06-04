@@ -42,7 +42,7 @@
             // 
             this.btnStart.Location = new System.Drawing.Point(12, 12);
             this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(85, 78);
+            this.btnStart.Size = new System.Drawing.Size(35, 35);
             this.btnStart.TabIndex = 0;
             this.btnStart.Text = "START";
             this.btnStart.UseVisualStyleBackColor = true;
@@ -52,7 +52,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(352, 756);
+            this.ClientSize = new System.Drawing.Size(120, 756);
             this.Controls.Add(this.btnStart);
             this.Name = "Form1";
             this.Text = "Form1";
